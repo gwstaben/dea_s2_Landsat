@@ -1,4 +1,4 @@
-# Steps to install and set up the conda environment to run the DEA downloading scripts.
+## Steps to install and set up the conda environment to run the DEA downloading scripts.
 
 Conda is available in ArcGIS Pro. Open the python Command prompt – installed as part of ArcGIS Pro and create a new environment, cloning the arcgispro-py3 environment by entering the command below.
 
